@@ -24,16 +24,16 @@ html{overflow-x:hidden}a,abbr,acronym,address,applet,b,big,blockquote,body,capti
     
 .post-meta {
 transition: .5s;
-box-shadow: 0 0 12px rgba(0,0,0,0.3);
+    box-shadow: 0 0 12px rgba(0,0,0,0.3);
     background: #7596c8;
     border-radius: 20px 0px;
     font-size: 14px;
     color: #fff;
-    padding: 10px 0 10px;
+    padding: 7px 2px 0px;
     border: 3px solid #eee;
     margin: 10px 0px;
     float: left;
-    width: 100%;
+    width: 99%;
     clear: both;
 }
   .post-meta:hover,#img-pertamax img:hover{box-shadow: 0 0 12px rgba(0,0,0,0.4);transition: .5s;}
